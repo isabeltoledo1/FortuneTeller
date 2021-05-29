@@ -5,7 +5,7 @@
 
 
 ### Desription
-
+Ask fortune teller a question and it will predict the future. 
 
 
 
@@ -13,7 +13,7 @@
   
 ### Video Walkthrough
 
- ![](assets/gif.gif)   
+ ![](assets/fortune.gif)   
 
 
 
